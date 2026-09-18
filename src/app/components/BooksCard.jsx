@@ -1,7 +1,14 @@
+"use client";
 import Image from "next/image";
 import Link from "next/link";
+import { use } from "react";
+import { UserContext } from "../contexts/UserContext";
+import useUser from "../hooks/useUser";
 
 const BooksCard = ({ book }) => {
+  const user = useUser();
+  console.log("from context in books card", user);
+
   return (
     <div className="card bg-base-100  shadow-sm">
       <figure className="px-10 pt-10">
