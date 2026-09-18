@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "Walking Shoes",
+      "name": "Running Shoes",
       "description": "Lightweight and comfortable running shoes designed for everyday workouts.",
       "price": 74.99,
       "category": "Fashion",
@@ -59,6 +59,74 @@
       "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d",
       "rating": 4.2,
       "stock": 50
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Silent Forest",
+      "description": "A mystery novel about a young traveler who discovers secrets hidden deep inside a forgotten forest.",
+      "author": "Daniel Carter",
+      "price": 12.99,
+      "category": "Mystery",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "rating": 4.6,
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "title": "Journey Beyond the Stars",
+      "description": "An exciting science fiction adventure following a crew exploring an unknown planet.",
+      "author": "Emily Watson",
+      "price": 15.99,
+      "category": "Science Fiction",
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311",
+      "rating": 4.8,
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "title": "Learning JavaScript",
+      "description": "A beginner-friendly guide to understanding JavaScript fundamentals and modern web development.",
+      "author": "Michael Brown",
+      "price": 24.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "title": "The Art of Simple Living",
+      "description": "A practical book about building a calmer, more organized, and meaningful everyday life.",
+      "author": "Sophia Miller",
+      "price": 18.99,
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "rating": 4.5,
+      "stock": 22
+    },
+    {
+      "id": 5,
+      "title": "Journey to the Mountains",
+      "description": "A beautiful adventure story about friendship, courage, and discovering the natural world.",
+      "author": "James Wilson",
+      "price": 13.99,
+      "category": "Adventure",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "rating": 4.4,
+      "stock": 18
+    },
+    {
+      "id": 6,
+      "title": "Mastering TypeScript",
+      "description": "A practical introduction to TypeScript types, interfaces, generics, and modern development techniques.",
+      "author": "Alex Morgan",
+      "price": 27.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "rating": 4.9,
+      "stock": 12
     }
   ]
 }
