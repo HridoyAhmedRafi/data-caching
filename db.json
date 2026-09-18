@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with clear sound and comfortable ear cushions.",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "description": "Modern smartwatch with fitness tracking, heart rate monitoring, and notifications.",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "rating": 4.3,
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Walking Shoes",
+      "description": "Lightweight and comfortable running shoes designed for everyday workouts.",
+      "price": 74.99,
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "rating": 4.7,
+      "stock": 32
+    },
+    {
+      "id": 4,
+      "name": "Travel Backpack",
+      "description": "Durable backpack with multiple compartments for travel, school, and everyday use.",
+      "price": 44.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "rating": 4.4,
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "description": "Compact mechanical keyboard with responsive keys and RGB backlighting.",
+      "price": 69.99,
+      "category": "Computer",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "rating": 4.6,
+      "stock": 15
+    },
+    {
+      "id": 6,
+      "name": "Coffee Mug",
+      "description": "Simple ceramic coffee mug suitable for home, office, and everyday use.",
+      "price": 14.99,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d",
+      "rating": 4.2,
+      "stock": 50
+    }
+  ]
+}
