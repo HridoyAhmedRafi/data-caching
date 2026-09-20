@@ -7,7 +7,7 @@ import useUser from "../hooks/useUser";
 
 const BooksCard = ({ book }) => {
   const user = useUser();
-  console.log("from context in books card", user);
+
 
   return (
     <div className="card bg-base-100  shadow-sm">
