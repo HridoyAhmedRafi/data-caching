@@ -14,7 +14,7 @@ const BookDetailsPage = async ({ params }) => {
   return (
     <div className="my-3">
       <h1 className="text-center text-2xl ">Book Details</h1>
-      <div className="flex items-center justify-center  ">
+      <div className="flex items-center justify-center">
         <BookCard book={book}></BookCard>
       </div>
     </div>
